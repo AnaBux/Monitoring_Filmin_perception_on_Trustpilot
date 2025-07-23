@@ -26,5 +26,7 @@ This project provides an end-to-end workflow for analyzing user reviews from the
 - Standard Python libraries: pandas, matplotlib, wordcloud, etc.
 
 **Credits**
-Developed by Ana Sánchez as part of a Filmin review analytics initiative. Special thanks to the maintainers of the Hugging Face Transformers, BERTopic, and Gradio libraries.
+
+Developed by Ana Sánchez as part of a Filmin review analytics initiative. 
+Special thanks to the maintainers of the Hugging Face Transformers, BERTopic, and Gradio libraries.
 
