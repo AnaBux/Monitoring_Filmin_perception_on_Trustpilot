@@ -27,6 +27,5 @@ This project provides an end-to-end workflow for analyzing user reviews from the
 
 **Credits**
 
-Developed by Ana Sánchez as part of a Filmin review analytics initiative. 
-Special thanks to the maintainers of the Hugging Face Transformers, BERTopic, and Gradio libraries.
-
+Developed by Ana Sánchez as part of the Applied AI bootcamp of AllWomen Tech School (https://www.allwomen.tech/) in April 2025. 
+Special thanks to the maintainers of the Hugging Face Transformers, BERTopic, and Gradio libraries and the school team.
