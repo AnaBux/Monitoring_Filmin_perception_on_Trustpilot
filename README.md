@@ -30,6 +30,6 @@ This project provides an end-to-end workflow for analyzing user reviews from the
 Developed by Ana Sánchez as part of the Applied AI bootcamp of AllWomen Tech School (https://www.allwomen.tech/) in April 2025. 
 Special thanks to the maintainers of the Hugging Face Transformers, BERTopic, and Gradio libraries and the school team.
 
-<img width="1920" height="1080" alt="Filmin_Trustpilot_5" src="https://github.com/user-attachments/assets/dfafc68e-4d3e-476c-acf8-0748b8b89107" />
-<img width="1920" height="1080" alt="Filmin_Trustpilot_4" src="https://github.com/user-attachments/assets/1a5656a3-8905-40b7-9d1b-b040feedb97e" />
 <img width="1920" height="1080" alt="Filmin_Trustpilot_3" src="https://github.com/user-attachments/assets/dab16e45-1abd-4834-ba94-a1b95a0ddebf" />
+<img width="1920" height="1080" alt="Filmin_Trustpilot_4" src="https://github.com/user-attachments/assets/1a5656a3-8905-40b7-9d1b-b040feedb97e" />
+<img width="1920" height="1080" alt="Filmin_Trustpilot_5" src="https://github.com/user-attachments/assets/dfafc68e-4d3e-476c-acf8-0748b8b89107" />
